@@ -5,15 +5,15 @@ The Wallet app is a command-line tool that allows users to keep track of their i
 # Commands
 Command               | Parameters |
 :-------------------: | :----------:
-register |  \<username\> "<password>"
-log-in   |
-deposit     
-withdraw     
-balance      
-list-offerings      
-buy-asset      
-sell-asset     
-get-summary       
-get-overall-summary       
-log-out       
-quit       
+register |  \<username\> \<password\>
+log-in   | \<username\> \<password\>
+deposit  | \<amount $\>
+withdraw | \<\amound $\>
+balance  | \<\>
+list-offerings | \<\>
+buy-asset | \<assetId\> \<amount $\>
+sell-asset | \<assetId\>
+get-summary | \<\>
+get-overall-summary | \<\>
+log-out \<\>
+quit \<\>
