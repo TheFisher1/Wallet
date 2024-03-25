@@ -15,5 +15,5 @@ buy-asset | \<assetId\> \<amount $\>
 sell-asset | \<assetId\>
 get-summary | \<\>
 get-overall-summary | \<\>
-log-out \<\>
-quit \<\>
+log-out | \<\>
+quit | \<\>
