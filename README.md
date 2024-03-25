@@ -5,7 +5,7 @@ The Wallet app is a command-line tool that allows users to keep track of their i
 # Commands
 Command               | Parameters |
 :-------------------: | :----------:
-register |  "<username>" "<password>"
+register |  \<username\> "<password>"
 log-in   |
 deposit     
 withdraw     
