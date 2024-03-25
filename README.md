@@ -8,7 +8,7 @@ Command               | Parameters |
 register |  \<username\> \<password\>
 log-in   | \<username\> \<password\>
 deposit  | \<amount $\>
-withdraw | \<\amound $\>
+withdraw | \<\amount $\>
 balance  | \<\>
 list-offerings | \<\>
 buy-asset | \<assetId\> \<amount $\>
