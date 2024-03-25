@@ -3,8 +3,8 @@
 The Wallet app is a command-line tool that allows users to keep track of their investments and to get the recent trends in the cryptocurrencies.
 
 # Commands
-register     
-log-in      
+register     |
+log-in       |
 deposit     
 withdraw     
 balance      
